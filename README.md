@@ -4,7 +4,7 @@ git clone https://github.com/Chihab9/Toxicity
 
 OR
 
-open the following link in a browser:
+open the following link in a browser and download Toxicity folder:
 https://github.com/Chihab9/Toxicity
 
 Once you have cloned the repository, you can follow the instructions below to install the required dependencies and run the code.
