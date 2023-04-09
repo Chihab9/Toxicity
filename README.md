@@ -1,8 +1,10 @@
 Getting Started
 To get started with this project, you can clone this repository by running the following command in your terminal:
 git clone https://github.com/Chihab9/Toxicity
+
 OR
-access open the following link in a browser:
+
+open the following link in a browser:
 https://github.com/Chihab9/Toxicity
 
 Once you have cloned the repository, you can follow the instructions below to install the required dependencies and run the code.
